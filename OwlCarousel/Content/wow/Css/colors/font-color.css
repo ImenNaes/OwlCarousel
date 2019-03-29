@@ -1,0 +1,128 @@
+.color-red {
+    color: #d60d46!important;
+}
+.color-white {
+    color: #ffffff !important;
+}
+.color-b80378 {
+    color: #b80378!important;
+}
+.color-dd2363{
+    color: #dd2363!important;
+
+}
+.color-orange {
+    color: #fea800!important;
+}
+.color-gray {
+    color: #d4d4d4!important;
+}
+.text-default {
+    color: #777777;
+}
+
+.text-primary {
+    color: #9875ab;
+}
+
+.text-success {
+    color: #87c056;
+}
+
+.text-info {
+    color: #4da5e2;
+}
+
+.text-warning {
+    color: #ffcc66;
+}
+
+.text-danger {
+    color: #ec7160;
+}
+
+
+.bg-default {
+    color: #ffffff;
+    background: #777777;
+    padding: 3px 4px;
+}
+
+.bg-primary {
+    color: #ffffff;
+    background: #9875ab;
+    padding: 3px 4px;
+}
+
+.bg-success {
+    color: #ffffff;
+    background: #87c056;
+    padding: 3px 4px;
+}
+
+.bg-info {
+    color: #ffffff;
+    background: #4da5e2;
+    padding: 3px 4px;
+}
+
+.bg-warning {
+    color: #ffffff;
+    background: #ffcc66;
+    padding: 3px 4px;
+}
+
+.bg-danger {
+    color: #ffffff;
+    background: #ec7160;
+    padding: 3px 4px;
+}
+.color-red-bg {
+    color: #ffffff;
+    background: #d60d46!important;
+    padding: 3px 4px;
+
+}
+.color-white-bg {
+    color: #000;
+    background: #ffffff !important;
+    padding: 3px 4px;
+
+}
+.color-b80378-bg {
+    color: #ffffff;
+    background: #b80378!important;
+    padding: 3px 4px;
+
+}
+.color-dd2363-bg {
+    color: #ffffff;
+    background: #dd2363!important;
+    padding: 3px 4px;
+}
+.color-dark-bg {
+    color: #ffffff;
+    background-color: #333333!important;
+    padding: 3px 4px;
+
+}
+.color-orange-bg {
+    color: #ffffff;
+    background: #fea800!important;
+    padding: 3px 4px;
+
+}
+.color-gray-bg {
+    color: #ffffff;
+    background: #d4d4d4!important;
+    padding: 3px 4px;
+
+}
+
+.color-A6D2F1-bg {
+    color: #ffffff;
+    background:  #A6D2F1;!important;
+    padding: 3px 4px;
+
+}
+

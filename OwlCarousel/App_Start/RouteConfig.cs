@@ -16,7 +16,7 @@ namespace OwlCarousel
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Carousel", action = "DemoCarousel1", id = UrlParameter.Optional }
             );
         }
     }
